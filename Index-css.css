@@ -1,0 +1,21 @@
+body{background-color: palegreen}
+
+h1 {background-color: darkkhaki ; 
+ color: navy;
+ text-align: center ;
+  border: 5px khaki double }
+
+  p{color : midnightblue ;
+    background-color: lightgreen ;
+	text-align: center}
+
+li{color : darkslateblue}
+
+img{height: 200px ;
+ width: 300px;
+ border-radius :360%;
+  border: 5px double #ddd;
+   border-radius: 500% ;
+   border-color: darkolivegreen}
+
+blockquote {background-color: darkseagreen ; text-align: center}
